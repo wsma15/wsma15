@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 - ![VB.NET](https://img.shields.io/badge/-VB.NET-5C2D91?logo=.net&logoColor=white)
 
 ### 📂 My Repositories
-Check out some of my work [here](https://github.com/wsma15/ProjectTraining2).  
+Check out some of my work [here]([#]https://github.com/wsma15/ProjectTraining2).  
 
 ### 📄 Resume
-[Download My Resume]((https://github.com/wsma15/wsma15/blob/main/Hussin%20Alwisi%20Resume.pdf))
+[Download My Resume]([#](https://github.com/wsma15/wsma15/blob/main/Hussin%20Alwisi%20Resume.pdf))
 
 ### 📫 Connect With Me
-- GitHub:  [Wsma15](https://github.com/wsma15)
-- LinkedIn:[Hussein Alwisi](https://www.linkedin.com/in/hussein-al-wisi-b00310218/) 
+- GitHub:  [Wsma15]([#]https://github.com/wsma15)
+- LinkedIn:[Hussein Alwisi]([#]https://www.linkedin.com/in/hussein-al-wisi-b00310218/) 
